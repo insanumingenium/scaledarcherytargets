@@ -1,4 +1,4 @@
-# scaledarcherytargets
+# Scaled Archery Targets
 A python script to generate scaled archery targets.
 
 There is no validation of user input currently, have fun with that.
